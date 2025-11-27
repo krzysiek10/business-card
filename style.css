@@ -93,6 +93,7 @@ body {
 .profile__name {
     font-size: 28px;
     font-weight: 900;
+    line-height: 30px;
 }
 
 .profile__title {
@@ -110,7 +111,6 @@ body {
 }
 
 .profile__contact-item {
-    margin-bottom: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
