@@ -1,5 +1,5 @@
 :root {
-    --font-primary: 'Poppins', sans-serif;
+    --font-primary: 'Inter', sans-serif;
     --color-text-main: #333333;
     --color-text-light: #666666;
     --color-black: #000000;
@@ -194,7 +194,7 @@ body {
 }
 
 .offer-card:hover {
-    transform: translateY(-5px);
+    /* transform: translateY(-5px); */
 }
 
 .offer-card__image {
